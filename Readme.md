@@ -34,7 +34,7 @@ This project was developed with the following technology:
 
 ## 💻 Project
 
-<img alt="Floating Browser" src="./.github/floating-browser.gif" width="800px" />
+<img alt="Floating Browser" src="./.github/floating-browser.gif" width="600px" />
 
 ## ✌🏻 How to use
 
