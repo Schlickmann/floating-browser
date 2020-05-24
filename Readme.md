@@ -35,3 +35,15 @@ This project was developed with the following technology:
 ## 💻 Project
 
 <img alt="Floating Browser" src="./.github/floating-browser.gif" width="800px" />
+
+## ✌🏻 How to use
+
+- Clone the repository or download it;
+- Under the project's root folder
+  - run **npm install**;
+  - change the **config.js** file to point at your preferred URL;
+  - and run **npm start**;
+
+---
+
+  Made with ♥ by Juliani Schlickmann :wave: [Get in touch!](https://www.linkedin.com/in/juliani-schlickmann-damasceno/)
